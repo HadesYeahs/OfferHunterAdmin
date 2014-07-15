@@ -1,0 +1,26 @@
+ul.listOportunities {
+	list-style: none;
+	page-break-after:always;
+}
+.listOportunities li {
+	padding: 1px 2px 2px 6px;
+	margin-bottom: 5px;
+}
+.listOportunities li.alarm {
+	background-color: yellow !important;
+}
+.listOportunities li:first-child {
+	font-weight: bold;
+}
+.header{
+	text-align: center;
+	font-weight: 400;
+}
+.listOportunities li:not(:first-child)
+{
+	list-style: initial;
+}
+.listOportunities span.alarmanswer
+{
+	background-color: wheat !important;
+}

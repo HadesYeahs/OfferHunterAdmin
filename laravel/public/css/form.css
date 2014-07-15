@@ -1,0 +1,12 @@
+.error {
+	display: block;
+	color: red;
+}
+
+.form-horizontal textarea {
+	height: 120px;
+}
+
+.details {
+	margin-bottom: 25px;
+}

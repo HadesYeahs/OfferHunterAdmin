@@ -1,0 +1,25 @@
+.qq-upload-button {
+	-webkit-border-radius: 2px; 
+	-webkit-border-radius: 1em;
+	-moz-border-radius: 2px;
+	width: 20% !important;
+	height: 1% !important;
+	border-radius: 2px;
+	font-size: 11px; 
+	font-size: 12px;
+	font-weight: normal; 
+	font-weight: bold;
+	color: #444 !important;
+	padding: 3px 1px 3px 1px;
+	background-color: #459475; 
+	background: whitesmoke !important;
+	box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 2px 0px;
+	border: none; 
+	border: 1px solid #CCC;
+	text-shadow: 0 1px 1px white;
+	height: 16px;
+	font-family: Arial;
+}
+.imageLogo{
+	width: 8%;
+}

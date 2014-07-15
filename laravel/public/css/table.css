@@ -1,0 +1,29 @@
+tr.selected {
+background-color: #3875d7;
+color: #FFF;
+}
+.controlsheader {
+	height: 35px;
+}
+.controlsheader UL {
+list-style: none;
+margin: 4px;
+padding: 0;
+}
+
+.controlsheader UL LI {
+float: left;
+margin-right: 6px;
+}
+
+.table .checked {
+	width: 30px;
+}
+
+.table .open:hover {
+	text-decoration:underline;
+}
+
+.table .handle {
+	width: 25px;
+}
